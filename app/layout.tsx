@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bokepkecil.pages.dev"),
+    metadataBase: new URL("https://bokepkecilz.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: 'sONsqNh0r5iLOLdOVwEK1oJFx-WIMtI3iBiORqGi3BM',
+        google: 'YmVsTtzLDLNl0YbitQpp_WAgPxUe2bgnSuISzMzjql0',
         yandex: '5b3eb522890d4b61',
     },
 };
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bokepkecil.pages.dev/favicon.ico",
-        "url": "https://bokepkecil.pages.dev",
+        "logo": "https://bokepkecilz.pages.dev/favicon.ico",
+        "url": "https://bokepkecilz.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepkecil.pages.dev"
+            "url":"https://bokepkecilz.pages.dev"
             },
             "foundingDate":"2025-02-20"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepkecil.pages.dev",
+        "url": "https://bokepkecilz.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepkecil.pages.dev/?q={search_term}", 
+          "target": "https://bokepkecilz.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
